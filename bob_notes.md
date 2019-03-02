@@ -1,3 +1,4 @@
+# 排序算法
 # 快速排序
 	def sort1(l):
 	    for x in range(1,len(l)):
